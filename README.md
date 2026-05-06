@@ -1,7 +1,5 @@
-# Medical-Store-Sales-Analytics
-Leveraging SQL &amp; Data Modeling to Combat Inventory Wastage and Maximize Customer Lifetime Value
-
 # Medical Store Analytics & Inventory Management System
+Leveraging SQL &amp; Data Modeling to Combat Inventory Wastage and Maximize Customer Lifetime Value
 
 ## Project Overview
 This project demonstrates a robust database schema and an analytical suite for a modern pharmacy/medical store. It moves beyond basic CRUD operations to solve real-world business problems such as **expiry risk mitigation**, **customer churn prediction**, and **profitability analysis**.
